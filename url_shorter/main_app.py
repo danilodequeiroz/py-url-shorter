@@ -10,5 +10,3 @@ def main():
     print(f"short url {url_shorter.short_url}")
     print("short url: {} long url: {}".format(url_shorter.short_url, url_shorter.long_url) )
 
-if __name__ == "__main__":
-    main()
